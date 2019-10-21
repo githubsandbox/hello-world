@@ -1,6 +1,10 @@
 # hello-world
-A short description.
 
-https://guides.github.com/activities/hello-world/
+Short links to follow:
 
-https://guides.github.com/introduction/flow/
+- https://github.com/
+
+- https://guides.github.com/activities/hello-world/
+
+- https://guides.github.com/introduction/flow/
+
