@@ -11,3 +11,7 @@ Short links to follow:
 
 - https://linux.com/tutorials/beginning-git-and-github-linux-users/
 
+Free Book (PDF/EPUB/MOBI):
+
+- https://git-scm.com/book/en/v2
+
