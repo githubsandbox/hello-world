@@ -9,3 +9,5 @@ Short links to follow:
 
 - https://guides.github.com/introduction/flow/
 
+- https://linux.com/tutorials/beginning-git-and-github-linux-users/
+
